@@ -1,0 +1,14 @@
+theme: jekyll-theme-minimal #jekyll-theme-minimal
+title: [Hippolyte Mayard]
+subtitle: [Hippolyte Mayard]
+author: Hippolyte Mayard
+description: I am Hippolyte Mayard. Welcome to my blog!
+logo: /assets/images/image.png
+simple_search: https://www.google.com/search
+
+header_navigation:
+  - title: Home
+    url: /index.md
+
+show_downloads: true
+google_analytics:

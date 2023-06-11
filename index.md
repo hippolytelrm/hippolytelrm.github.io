@@ -1,24 +1,24 @@
 ---
-title: "My website"
-output: 
-  html_document:
-    toc: FALSE
+layout: default
 ---
 
+## Welcome to my website!
 
 
+## Getting started
 
-**Welcome to my website!**
-
-
-# Getting started
-
-Click the links in the menu above to look around.
+Brief introduction
 
 
-# Notes
+## My open source projects
 
-This website is a collection of regular (R)Markdown document, so you can use all the usual formatting.
+- project 1
+- project 2 
+- etc
 
 
+## Teaching 
+
+- Deep Learning for Image Analysis - Université Paris-Dauphine - PSL (TUNIS) 
+- Introduction to Deep Learning - Sorbonne Data Analytics - Université Paris 1 Panthéon-Sorbonne 
 
