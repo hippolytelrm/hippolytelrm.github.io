@@ -22,7 +22,11 @@ I am also teaching Deep Learning and computer vision with a focus on practical a
 
 ## Teaching 
 
-- Deep Learning for Image Analysis, Dauphine-PSL Tunis [master's webpage](https://tunis.dauphine.psl.eu/masters/big-data-intelligence-artificielle)
-- Introduction to Deep Learning, Sorbonne Data Analytics - Université Paris 1 Panthéon-Sorbonne
+- Deep Learning for Image Analysis, Dauphine-PSL Tunis ([webpage](https://tunis.dauphine.psl.eu/masters/big-data-intelligence-artificielle))
+- Introduction to Deep Learning, Sorbonne Data Analytics ([webpage](https://formations.pantheonsorbonne.fr/fr/catalogue-des-formations/diplome-d-universite-DU/diplome-d-universite-KBVXM363/diplome-d-universite-sorbonne-data-analytics-KPMK3V7Z.html))
 - Introduction to Deep Learning @[Datagong.io](https://www.datagong.io/)
 
+## Contact
+
+- hippolytemayard@gmail.com
+- [Linkedin](https://www.linkedin.com/in/hippolyte-mayard-5b330a140/)
