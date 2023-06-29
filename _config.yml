@@ -2,7 +2,12 @@ theme: jekyll-theme-minimal #jekyll-theme-minimal
 title: [Hippolyte Mayard]
 subtitle: [Hippolyte Mayard]
 author: Hippolyte Mayard
-description: I am Hippolyte Mayard. Welcome to my blog!
+#description1: "Hi! My name is Hippolyte Mayard, welcome to my personnal page."
+description2: 👨🏼‍🎓 MVA - ENS Paris-Saclay
+description3: 👨🏼‍🎓 IASD - Université Paris-Dauphine PSL
+description4: 👨🏼‍💻 Deep Learning engineer @Allisone.ai
+
+
 logo: /assets/images/image.png
 simple_search: https://www.google.com/search
 
@@ -10,5 +15,7 @@ header_navigation:
   - title: Home
     url: /index.md
 
-show_downloads: true
+show_downloads: false
+is_user_page: false
+is_project_page: false
 google_analytics:
