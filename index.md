@@ -31,4 +31,4 @@ I am also teaching Deep Learning and computer vision with a focus on practical a
 - hippolytemayard@gmail.com
 - [Linkedin](https://www.linkedin.com/in/hippolyte-mayard-5b330a140/)
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=UHFum2zR4IKpODq4zfPeDWQIhvfNo77TqyaJMIgeFxE"></script>
+<a href="https://clustrmaps.com/site/1bvdf"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=UHFum2zR4IKpODq4zfPeDWQIhvfNo77TqyaJMIgeFxE&cl=ffffff" /></a>
