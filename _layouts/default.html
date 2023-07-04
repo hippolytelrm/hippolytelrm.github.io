@@ -1,7 +1,7 @@
 <style>
     .reduce-line-spacing
     {
-        line-height: 0.6; 
+        line-height: 0.8; 
     }
 </style>
 
@@ -19,6 +19,24 @@
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
+    <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({
+          tex2jax: {
+            inlineMath: [ ['$$','$$'], ["\\(","\\)"] ],
+            displayMath: [ ['$$','$$'], ["\\(","\\)"] ],
+          },
+          TeX: {
+            Macros: {
+              bra: ["\\langle{#1}|", 1],
+              ket: ["|{#1}\\rangle", 1],
+              braket: ["\\langle{#1}\\rangle", 1],
+              bk: ["\\langle{#1}|{#2}|{#3}\\rangle", 3]
+           }
+         }
+        });
+      </script>
+      
+      <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML' async></script>
 </head>
 
 <body>
@@ -29,7 +47,7 @@
             {% if site.logo %}
             <img src="{{site.logo | relative_url}}" alt="Logo" height="200" width="200" />
             {% endif %}
-
+            <br></br>
             <p class="reduce-line-spacing">{{ site.description1 | default: site.github.project_tagline }}</p>
             <p class="reduce-line-spacing">{{ site.description2 | default: site.github.project_tagline }}</p>
             <p class="reduce-line-spacing">{{ site.description3 | default: site.github.project_tagline }}</p>
