@@ -23,7 +23,7 @@ I'm a passionate Deep Learning engineer with a specialization in computer vision
 
 ## My open source projects
 
-- Certainty Pooling for Multiple Instance Learning
+- [Certainty Pooling for Multiple Instance Learning](./project1.md)
 - Generative models for Chest X-rays
 - Knee MRI segmentation project
 
