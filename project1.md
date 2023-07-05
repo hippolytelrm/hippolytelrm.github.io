@@ -11,6 +11,7 @@ The code is available [here](https://github.com/hippolytelrm/certainty-pooling-m
 
 Multiple Instance Learning is a form of weakly supervised learning in which the data is arranged in sets of instances called bags with one label assigned per bag. The bag level class prediction is derived from the multiple instances through application of a permutation invariant pooling operator on instance predictions or embeddings.
 
+
 ![image info](./assets/images/project1/slide.png)
 
 ## Certainty pooling 
