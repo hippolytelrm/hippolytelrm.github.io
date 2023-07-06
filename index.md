@@ -24,7 +24,7 @@ I'm a passionate Deep Learning engineer with a specialization in computer vision
 ## My open source projects 🔬
 
 [Certainty Pooling for Multiple Instance Learning](./project1.md) | [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/hippolytelrm/certainty-pooling-mil) \
-Generative models for Chest X-rays (WIP)\
+[Generative models for Chest X-rays](./project2.md) | [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/hippolytelrm/chest-x-ray-generative-models) \
 Knee MRI segmentation project (WIP)
 
 
