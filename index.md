@@ -23,9 +23,11 @@ I'm a passionate Deep Learning engineer with a specialization in computer vision
 
 ## My open source projects 🔬
 
+[3D Mesh Segmentation - MICCAI 2022 Challenge data](./project3.md) | [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/hippolytelrm/teeth-3d-mesh-segmentation) \
 [Certainty Pooling for Multiple Instance Learning](./project1.md) | [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/hippolytelrm/certainty-pooling-mil) \
 [Generative models for Chest X-rays](./project2.md) | [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/hippolytelrm/chest-x-ray-generative-models) \
 Knee MRI segmentation project (WIP)
+
 
 
 ## Teaching 👨‍🏫
