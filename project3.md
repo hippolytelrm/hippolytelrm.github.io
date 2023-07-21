@@ -4,7 +4,11 @@
 Implementation of [MeshSegNet: Deep Multi-Scale Mesh Feature Learning for Automated Labeling of Raw Dental Surface from 3D Intraoral Scanners](https://ieeexplore.ieee.org/abstract/document/8984309) [1] for automated tooth segmentation and labeling on raw dental surfaces. 
 The dataset used for this project is the challenge 3DTeethSeg22 dataset (associated with MICCAI 2022) [2] and is publicly available.
 
-<img src="./assets/images/project3/3d-mesh.gif" width="300" />
+
+<figure>
+  <img src="./assets/images/project3/preds_vs_gt.gif" width="600" />
+  <figcaption>Ground truth (left) vs. Predictions (right)</figcaption>
+</figure>
 
 ## Code
 
@@ -22,6 +26,9 @@ We base our implementation on MeshSegNet paper [1] as well as the official imple
 
 <img src="./assets/images/project3/meshsegnet_architecture.png" width="800" />
 
+## Training
+
+- [] Monitoring model evaluation
 
 ## References 
 
