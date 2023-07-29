@@ -29,6 +29,12 @@ I'm a passionate Deep Learning engineer with a specialization in computer vision
 Knee MRI segmentation project (WIP)
 
 
+## Publications 📄
+
+**Pre-Training with Diffusion models for Dental Radiography segmentation** : [arXiv](https://arxiv.org/abs/2307.14066) \
+*Jérémy Rousseau, Christian Alaka, Emma Covili, Hippolyte Mayard, Laura Misrachi, Willy Au* \
+[Deep Generative Models workshop @ MICCAI 2023](https://dgm4miccai.github.io/)
+
 
 ## Teaching 👨‍🏫
 
@@ -38,8 +44,8 @@ Knee MRI segmentation project (WIP)
 
 ## Contact
 
-- 📩 hippolytemayard@gmail.com
-- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/hippolyte-mayard-5b330a140/)
+📩 hippolytemayard@gmail.com \
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/hippolyte-mayard-5b330a140/) 
 &nbsp;
 
 <a href="https://clustrmaps.com/site/1bvdf"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=UHFum2zR4IKpODq4zfPeDWQIhvfNo77TqyaJMIgeFxE&cl=ffffff" /></a>
