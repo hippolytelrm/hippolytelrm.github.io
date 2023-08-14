@@ -7,7 +7,7 @@ The dataset used for this project is an open dataset [2] and is available public
 
 ## Code
 
-The code is available on [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/hippolytelrm/chest-x-ray-generative-models)
+The code is available on [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/hippolytemayard/chest-x-ray-generative-models)
 
 ## Dataset
 For this project, we utilize an open dataset called the Curated COVID-19 Chest X-ray Dataset [2]. This dataset contains a collection of chest X-ray images, including those of patients with COVID-19, pneumonia, and other respiratory conditions. The dataset is publicly available on Kaggle, providing a rich and diverse set of chest X-ray images for training and evaluation.
