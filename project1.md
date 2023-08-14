@@ -5,7 +5,7 @@ This project proposes an implementation of [*Certainty Pooling for Multiple Inst
 
 ## Code
 
-The code is available on [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/hippolytelrm/certainty-pooling-mil)
+The code is available on [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/hippolytemayard/certainty-pooling-mil)
 
 ## Introduction 
 

@@ -12,7 +12,7 @@ The dataset used for this project is the challenge 3DTeethSeg22 dataset (associa
 
 ## Code
 
-The code is available on [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/hippolytelrm/teeth-3d-mesh-segmentation)
+The code is available on [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/hippolytemayard/teeth-3d-mesh-segmentation)
 
 
 ## Dataset

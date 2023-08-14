@@ -23,9 +23,9 @@ I'm a passionate Deep Learning engineer with a specialization in computer vision
 
 ## My open source projects 🔬
 
-[3D Mesh Segmentation - MICCAI 2022 Challenge data](./project3.md) | [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/hippolytelrm/teeth-3d-mesh-segmentation) \
-[Certainty Pooling for Multiple Instance Learning](./project1.md) | [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/hippolytelrm/certainty-pooling-mil) \
-[Generative models for Chest X-rays](./project2.md) | [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/hippolytelrm/chest-x-ray-generative-models) \
+[3D Mesh Segmentation - MICCAI 2022 Challenge data](./project3.md) | [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/hippolytemayard/teeth-3d-mesh-segmentation) \
+[Certainty Pooling for Multiple Instance Learning](./project1.md) | [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/hippolytemayard/certainty-pooling-mil) \
+[Generative models for Chest X-rays](./project2.md) | [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/hippolytemayard/chest-x-ray-generative-models) \
 Knee MRI segmentation project (WIP)
 
 
@@ -33,7 +33,13 @@ Knee MRI segmentation project (WIP)
 
 **Pre-Training with Diffusion models for Dental Radiography segmentation** : [arXiv](https://arxiv.org/abs/2307.14066) \
 *Jérémy Rousseau, Christian Alaka, Emma Covili, Hippolyte Mayard, Laura Misrachi, Willy Au* \
-[Deep Generative Models workshop @ MICCAI 2023](https://dgm4miccai.github.io/)
+[Deep Generative Models workshop @ MICCAI 2023](https://dgm4miccai.github.io/) \
+
+**Contribution** 
+Burning Glass Technologies’ data use in policy-relevant analysis: An occupationlevel assessment : [paper](https://www.oecd-ilibrary.org/docserver/cd75c3e7-en.pdf?expires=1691999339&id=id&accname=guest&checksum=483B4F421C9D935B122503E4AD2350CB) \ 
+*Emile Cammeraat, Mariagrazia Squicciarini*
+OECD Science, Technology and Industry Working Papers, 2021
+
 
 
 ## Teaching 👨‍🏫
