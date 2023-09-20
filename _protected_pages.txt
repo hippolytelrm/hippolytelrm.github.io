@@ -1,2 +1,2 @@
-deep-learning-bdia.html deeplearningbdia!
+_site/deep-learning-bdia.html deeplearningbdia!
 
