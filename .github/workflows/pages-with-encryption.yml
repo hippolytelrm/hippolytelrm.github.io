@@ -40,8 +40,11 @@ jobs:
       # Note: this only encrypts .html pages and not any of the corresponding assets.
       - name: Encrypt pages with PageCrypt
         run: |
+          npm install -g npm@10.1.0
           npm i -D pagecrypt
           cat _protected_pages.txt | while read file password;
+          echo file
+          echo password
           do
             sudo npx pagecrypt "_site/$file" "_site/$file" "$password"
           done
