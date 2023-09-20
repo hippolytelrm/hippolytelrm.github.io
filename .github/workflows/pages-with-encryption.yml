@@ -43,10 +43,10 @@ jobs:
           npm install -g npm@10.1.0
           npm i -D pagecrypt
           cat _protected_pages.txt | while read file password;
-          echo file
-          echo password
+          echo $file
+          echo $password
           do
-            sudo npx pagecrypt "_site/$file" "_site/$file" "$password"
+            sudo npx pagecrypt "_site/$file" "_site/$file" $password
           done
       # End encryption code.
 
