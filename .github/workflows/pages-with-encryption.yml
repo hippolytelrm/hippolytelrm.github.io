@@ -46,7 +46,7 @@ jobs:
           echo $file
           echo $password
           do
-            sudo npx pagecrypt "_site/$file" "_site/$file" "$password"
+            sudo npx pagecrypt "_site/$file" "_site/$file" "abcd"
           done
       # End encryption code.
 
