@@ -45,9 +45,7 @@ jobs:
           cat _protected_pages.txt | while read file password;
           echo $file
           echo $password
-          do
-            sudo npx pagecrypt "_site/$file" "_site/$file" "abcd"
-          done
+          sudo npx pagecrypt "_site/deep-learning-bdia.html" "_site/deep-learning-bdia.html" "abcd"
       # End encryption code.
 
       - name: Upload artifact
