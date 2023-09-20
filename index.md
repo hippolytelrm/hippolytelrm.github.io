@@ -44,6 +44,7 @@ OECD Science, Technology and Industry Working Papers, 2021
 
 ## Teaching 👨‍🏫
 
+- Deep Learning, *Dauphine-PSL Tunis* ([webpage](https://tunis.dauphine.psl.eu/masters/big-data-intelligence-artificielle)) 👉🏻 [courses page](./deep-learning-bdia.md)
 - Deep Learning for Image Analysis, *Dauphine-PSL Tunis* ([webpage](https://tunis.dauphine.psl.eu/masters/big-data-intelligence-artificielle))
 - Introduction to Deep Learning, *Sorbonne Data Analytics* ([webpage](https://formations.pantheonsorbonne.fr/fr/catalogue-des-formations/diplome-d-universite-DU/diplome-d-universite-KBVXM363/diplome-d-universite-sorbonne-data-analytics-KPMK3V7Z.html))
 - Introduction to Deep Learning @[Datagong.io](https://www.datagong.io/)
