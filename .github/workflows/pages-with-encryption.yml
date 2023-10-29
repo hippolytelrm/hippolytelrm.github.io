@@ -41,7 +41,7 @@ jobs:
       - name: Encrypt pages with PageCrypt
         run: |
           npm i -D pagecrypt
-          sudo npx pagecrypt "_site/deep-learning-bdia.html" "_site/deep-learning-bdia.html" "abcd"
+          sudo npx pagecrypt "_site/deep-learning-bdia.html" "_site/deep-learning-bdia.html" -g 10
       # End encryption code.
 
       - name: Upload artifact
