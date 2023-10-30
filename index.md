@@ -55,4 +55,5 @@ OECD Science, Technology and Industry Working Papers, 2021
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/hippolyte-mayard-5b330a140/) 
 &nbsp;
 
-<a href="https://clustrmaps.com/site/1bvdf"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=UHFum2zR4IKpODq4zfPeDWQIhvfNo77TqyaJMIgeFxE&cl=ffffff" /></a>
+
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=82660d&w=400&t=n&d=UHFum2zR4IKpODq4zfPeDWQIhvfNo77TqyaJMIgeFxE&cmo=feff53&cmn=6acc3a&co=004d84'></script>

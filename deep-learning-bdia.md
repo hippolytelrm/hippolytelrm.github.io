@@ -55,17 +55,17 @@ Welcome to the Deep Learning course page.
 - Course 📚 [link](https://drive.google.com/file/d/1hPkK6K9vGBCwqWWiEt5yJde_OqNnpltF/view)    
 - Practical session 💻 Hyperparameters optimization  
     🛠️ [exercise](https://drive.google.com/file/d/1VkssQVf4rALjwwWgSchFGMi5SXRuypgH/view?usp=drive_link)    
-    💡 [solution](https://drive.google.com/file/d/1xxPwmJEbRsRGKH1FolA9rDPiKut2IhJZ/view?usp=drive_link)    
+    💡 [solution](https://drive.google.com/file/d/1xxPwmJEbRsRGKH1FolA9rDPiKut2IhJZ/view?usp=sharing)    
 
 
 ### Introduction au Deep Learning pour l'analyse d'image
 - Course 📚 [link](https://drive.google.com/file/d/1-rl9gaI7FXW5b87v6vyX1jZzXCEFfeAa/view)   
 - Practical session 💻  
     🛠️ [CNNs with PyTorch](https://drive.google.com/file/d/1ynNSxRKcXrmIuGJDPs0E7AaVsR1dlVNH/view?usp=drive_link)   
-    💡 [solution](https://drive.google.com/file/d/1gfklORaKMsAtomFmomQifC9coCRYGyt4/view?usp=drive_link)   
+    💡 [solution](https://drive.google.com/file/d/1gfklORaKMsAtomFmomQifC9coCRYGyt4/view?usp=sharing)   
     
     🛠️ [CNNs with PyTorch - Application](https://drive.google.com/file/d/1ePxgLZgSWzmEl3Y8ITmAZgDciR4Qfsaz/view?usp=drive_link)   
-    💡 [solution](https://drive.google.com/file/d/1wAuDbvWOsVx-hQ5jBOBWZoLvd3NER72F/view?usp=drive_link)    
+    💡 [solution](https://drive.google.com/file/d/1wAuDbvWOsVx-hQ5jBOBWZoLvd3NER72F/view?usp=sharing)    
 
 ### Recurrent Neural Networks and Transformers
 - Course 📚 [link](https://drive.google.com/file/d/14EwFqhys0PZHuwKVjRhPZGocMiF8EEQm/view?usp=sharing)   
@@ -80,3 +80,6 @@ All the information related to the project can be found in the following present
 [project presentation](https://drive.google.com/file/d/1SCZ4K05MwoRUe_c0LQnnnlG8bf7Lpj8c/view?usp=drive_link)
 
 🚨 **The deadline for the project is set to 24/10**
+
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=__aXCgr-3B6fcXRvSJVwXww34NB2erAMGSWkVo1A4Lg"></script>
