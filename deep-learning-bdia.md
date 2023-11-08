@@ -77,7 +77,7 @@ Welcome to the Deep Learning course page.
 The semester final project is an open Kaggle competition available here: [Kaggle competition](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview).  
 
 All the information related to the project can be found in the following presentation: 
-[project presentation](https://drive.google.com/file/d/1SCZ4K05MwoRUe_c0LQnnnlG8bf7Lpj8c/view?usp=drive_link)
+[project presentation](https://drive.google.com/file/d/1SCZ4K05MwoRUe_c0LQnnnlG8bf7Lpj8c/view?usp=sharing)
 
 🚨 **The deadline for the project is set to 24/10**
 
