@@ -31,6 +31,10 @@ Knee MRI segmentation project (WIP)
 
 ## Publications 📄
 
+**SISTR: Sinus and Inferior alveolar nerve Segmentation with Targeted Refinement on Cone Beam Computed Tomography images** : [arXiv](https://arxiv.org/abs/2307.14066) \
+*Laura Misrachi, Emma Covili, Hippolyte Mayard, Christian Alaka, Jérémy Rousseau, Willy Au* \
+[medRxiv](https://www.medrxiv.org/content/10.1101/2024.02.17.24301683v1) 
+
 **Pre-Training with Diffusion models for Dental Radiography segmentation** : [arXiv](https://arxiv.org/abs/2307.14066) \
 *Jérémy Rousseau, Christian Alaka, Emma Covili, Hippolyte Mayard, Laura Misrachi, Willy Au* \
 [Deep Generative Models workshop @ MICCAI 2023](https://dgm4miccai.github.io/) 
