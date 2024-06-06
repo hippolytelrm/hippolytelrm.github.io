@@ -35,15 +35,6 @@ jobs:
           source: ./
           destination: ./_site
 
-      # Begin encryption code.
-      # This portion of the build job was written by Evan Baldonado (EvanBaldonado.com). Please do not remove this comment.
-      # Note: this only encrypts .html pages and not any of the corresponding assets.
-      - name: Encrypt pages with PageCrypt
-        run: |
-          npm i -D pagecrypt
-          sudo npx pagecrypt "_site/deep-learning-bdia.html" "_site/deep-learning-bdia.html" -g 10
-      # End encryption code.
-
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
 
