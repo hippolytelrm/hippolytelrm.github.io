@@ -7,13 +7,13 @@ The dataset used for this project is an open dataset [2] and is available public
 
 ## Code
 
-The code is available on [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/hippolytemayard/chest-x-ray-generative-models)
+The code is available on [![GitHub](./assets/images/github_logo.png) GitHub](https://github.com/hippolytemayard/chest-x-ray-generative-models)
 
 ## Dataset
 For this project, we utilize an open dataset called the Curated COVID-19 Chest X-ray Dataset [2]. This dataset contains a collection of chest X-ray images, including those of patients with COVID-19, pneumonia, and other respiratory conditions. The dataset is publicly available on Kaggle, providing a rich and diverse set of chest X-ray images for training and evaluation.
 
 ## Implementation Details
-We base our implementation on an existing PyTorch implementation of DDPM [3] (see [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/lucidrains/denoising-diffusion-pytorch)). This implementation serves as a solid foundation for our project, allowing us to leverage the power of PyTorch and build upon the existing codebase. By adapting the original DDPM framework to the specific task of generating chest X-ray images, we can explore the potential of this model in the medical imaging domain.
+We base our implementation on an existing PyTorch implementation of DDPM [3] (see [![GitHub](./assets/images/github_logo.png) GitHub](https://github.com/lucidrains/denoising-diffusion-pytorch)). This implementation serves as a solid foundation for our project, allowing us to leverage the power of PyTorch and build upon the existing codebase. By adapting the original DDPM framework to the specific task of generating chest X-ray images, we can explore the potential of this model in the medical imaging domain.
 
 
 ## Methodology
