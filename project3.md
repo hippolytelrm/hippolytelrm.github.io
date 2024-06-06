@@ -12,7 +12,7 @@ The dataset used for this project is the challenge 3DTeethSeg22 dataset (associa
 
 ## Code
 
-The code is available on [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/hippolytemayard/teeth-3d-mesh-segmentation)
+The code is available on [![GitHub](./assets/images/github_logo.png) GitHub](https://github.com/hippolytemayard/teeth-3d-mesh-segmentation)
 
 
 ## Dataset
@@ -22,7 +22,7 @@ The *3DTeethSeg22_challenge* dataset contains a collection of 3D dental surface 
 
 ## Implementation Details
 
-We base our implementation on MeshSegNet paper [1] as well as the official implementation (see [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/Tai-Hsien/MeshSegNet/tree/master)).
+We base our implementation on MeshSegNet paper [1] as well as the official implementation (see [![GitHub](./assets/images/github_logo.png) GitHub](https://github.com/Tai-Hsien/MeshSegNet/tree/master)).
 
 <img src="./assets/images/project3/meshsegnet_architecture.png" width="800" />
 

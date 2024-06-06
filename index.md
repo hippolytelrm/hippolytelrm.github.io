@@ -23,9 +23,10 @@ I'm a passionate Deep Learning engineer with a specialization in computer vision
 
 ## My open source projects 🔬
 
-[3D Mesh Segmentation - MICCAI 2022 Challenge data](./project3.md) | [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/hippolytemayard/teeth-3d-mesh-segmentation) \
-[Certainty Pooling for Multiple Instance Learning](./project1.md) | [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/hippolytemayard/certainty-pooling-mil) \
-[Generative models for Chest X-rays](./project2.md) | [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/hippolytemayard/chest-x-ray-generative-models) \
+[3D Mesh Segmentation - MICCAI 2022 Challenge data](./project3.md) | [![GitHub](./assets/images/github_logo.png) GitHub](https://github.com/hippolytemayard/teeth-3d-mesh-segmentation) \
+[3D Mesh Segmentation - MICCAI 2022 Challenge data](./project3.md) | [![GitHub](./assets/images/github_logo.png) GitHub](https://github.com/hippolytemayard/teeth-3d-mesh-segmentation) \
+[Certainty Pooling for Multiple Instance Learning](./project1.md) | [![GitHub](./assets/images/github_logo.png) GitHub](https://github.com/hippolytemayard/certainty-pooling-mil) \
+[Generative models for Chest X-rays](./project2.md) | [![GitHub](./assets/images/github_logo.png) GitHub](https://github.com/hippolytemayard/chest-x-ray-generative-models) \
 Knee MRI segmentation project (WIP)
 
 
@@ -48,7 +49,7 @@ OECD Science, Technology and Industry Working Papers, 2021
 
 ## Teaching 👨‍🏫
 
-- Deep Learning, *Dauphine-PSL Tunis* ([webpage](https://tunis.dauphine.psl.eu/masters/big-data-intelligence-artificielle)) 👉🏻 [courses page](./deep-learning-bdia.md)
+- Deep Learning, *Dauphine-PSL Tunis* ([webpage](https://tunis.dauphine.psl.eu/masters/big-data-intelligence-artificielle))
 - Deep Learning for Image Analysis, *Dauphine-PSL Tunis* ([webpage](https://tunis.dauphine.psl.eu/masters/big-data-intelligence-artificielle))
 - Introduction to Deep Learning, *Sorbonne Data Analytics* ([webpage](https://formations.pantheonsorbonne.fr/fr/catalogue-des-formations/diplome-d-universite-DU/diplome-d-universite-KBVXM363/diplome-d-universite-sorbonne-data-analytics-KPMK3V7Z.html))
 - Introduction to Deep Learning @[Datagong.io](https://www.datagong.io/)
@@ -56,7 +57,7 @@ OECD Science, Technology and Industry Working Papers, 2021
 ## Contact
 
 📩 hippolytemayard@gmail.com \
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/hippolyte-mayard-5b330a140/) 
+[![Linkedin](./assets/images/linkedin_logo.png) LinkedIn](https://www.linkedin.com/in/hippolyte-mayard-5b330a140/) 
 &nbsp;
 
 
