@@ -23,7 +23,7 @@ I'm a passionate Deep Learning engineer with a specialization in computer vision
 
 ## My open source projects 🔬
 
-[3D Mesh Segmentation - MICCAI 2022 Challenge data](./project3.md) | [![GitHub](./assets/images/github_logo.png) GitHub](https://github.com/hippolytemayard/teeth-3d-mesh-segmentation) \
+[Chest X-Ray detection app](./project4.md) | [![GitHub](./assets/images/github_logo.png) GitHub](https://github.com/hippolytemayard/chest-xray-detection) \
 [3D Mesh Segmentation - MICCAI 2022 Challenge data](./project3.md) | [![GitHub](./assets/images/github_logo.png) GitHub](https://github.com/hippolytemayard/teeth-3d-mesh-segmentation) \
 [Certainty Pooling for Multiple Instance Learning](./project1.md) | [![GitHub](./assets/images/github_logo.png) GitHub](https://github.com/hippolytemayard/certainty-pooling-mil) \
 [Generative models for Chest X-rays](./project2.md) | [![GitHub](./assets/images/github_logo.png) GitHub](https://github.com/hippolytemayard/chest-x-ray-generative-models) \
